@@ -11,8 +11,8 @@
        - Project URL
        - anon / publishable key (khóa CÔNG KHAI)
      TUYỆT ĐỐI KHÔNG dán service_role / secret key vào đây. */
-  const SUPABASE_URL = 'https://YOUR-PROJECT-REF.supabase.co';
-  const SUPABASE_ANON_KEY = 'YOUR-ANON-OR-PUBLISHABLE-KEY';
+  const SUPABASE_URL = 'https://aulcrgxmrmcgjjiztyuj.supabase.co';
+  const SUPABASE_ANON_KEY = 'sb_publishable_wzjzypPB3TCdGOkydRzisw_s4D_dlw6';
 
   /* ===== 2. TIỆN ÍCH ===== */
   const $ = (s, r = document) => r.querySelector(s);
